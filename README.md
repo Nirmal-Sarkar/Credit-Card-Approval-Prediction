@@ -3,8 +3,8 @@
 
 Welcome to the Credit Card Approval Prediction project! This repository contains code and resources for building a machine learning model to predict credit card approval based on customer information.
 
+![CREDIT CARD Approvalo](https://github.com/user-attachments/assets/b3e1d253-15ec-4843-b7e6-3dd824dd6286)
 
-![Firefly CREDIT CARD Approval Prediction by AI 89047](https://github.com/user-attachments/assets/3ecba761-e806-4ea6-9e9c-100bb0d799b9)
 
 ## Overview
 
